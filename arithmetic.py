@@ -14,7 +14,9 @@ def multiply(num1, num2):
     return num1 * num2    
 
 def divide(num1, num2):
-    pass
+    """Returns the quotient of the two input integers."""
+
+    return float(num1) / num2    
 
 def square(num1):
     pass
