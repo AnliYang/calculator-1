@@ -4,12 +4,14 @@ def add(num1, num2):
     return num1 + num2
 
 def subtract(num1, num2):
-    """Returns the difference of the input integers."""
+    """Returns the difference of the two input integers."""
 
     return num1 - num2    
 
 def multiply(num1, num2):
-    pass
+    """Returns the product of the two input integers."""
+
+    return num1 * num2    
 
 def divide(num1, num2):
     pass
